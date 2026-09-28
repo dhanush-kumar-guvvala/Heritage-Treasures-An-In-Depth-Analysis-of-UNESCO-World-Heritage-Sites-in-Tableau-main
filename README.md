@@ -11,7 +11,7 @@ Sites under danger status
 
 Cultural vs Natural heritage analysis
 
-Country-wise and region-wise trends
+Country-wise and region-wise trends.
 
 This project helps users understand heritage preservation patterns using interactive visual analytics.
 
