@@ -68,7 +68,7 @@ https://drive.google.com/file/d/1zFyx7eZpEEogDEgGcJyi1mLf5CiVo7hi/view
 
 PPT PRESENTATION : https://docs.google.com/presentation/d/1Lco7rhyFHqKA3GOBK-NDePxVoVrD-hnT/edit?usp=sharing&ouid=103121826000497738980&rtpof=true&sd=true
 
-Total Project Vizzes Link including all : https://public.tableau.com/app/profile/dhanush.kumar6106/
+Total Project Vizzes Link : https://public.tableau.com/app/profile/dhanush.kumar6106/
 
 
 🚀 Key Insights
