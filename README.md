@@ -66,6 +66,8 @@ https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data
 Watch the project demo here:
 https://drive.google.com/file/d/1zFyx7eZpEEogDEgGcJyi1mLf5CiVo7hi/view
 
+Total Project Vizzes Link including all : https://public.tableau.com/app/profile/dhanush.kumar6106/
+
 🚀 Key Insights
 
 Heritage sites are concentrated in specific regions globally
