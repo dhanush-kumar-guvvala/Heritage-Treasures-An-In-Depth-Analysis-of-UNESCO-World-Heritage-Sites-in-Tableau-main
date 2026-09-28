@@ -48,13 +48,13 @@ Combines dashboards into a complete analytical story for better understanding.
 🔗 Live Tableau Links
 
 📊 Dashboard 1:
-https://public.tableau.com/views/UNESCOSiteOverview/Dashboard1
+https://public.tableau.com/app/profile/dhanush.kumar6106/viz/UNESCObyDSSV/Dashboard1?publish=yes
 
 📊 Dashboard 2:
-https://public.tableau.com/views/UNESCODangerSiteAnalysis_17712425569000/Dashboard2
+https://public.tableau.com/app/profile/dhanush.kumar6106/viz/UNESCObyDSSVDb2/Dashboard2?publish=yes
 
 📖 Story:
-https://public.tableau.com/views/UNESCOStory_17712426463960/Story1
+https://public.tableau.com/app/profile/dhanush.kumar6106/viz/UNESCObyDSSVstory/Story1?publish=yes
 
 📁 Dataset
 
