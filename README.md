@@ -1,7 +1,7 @@
 🌍 Heritage Treasures – UNESCO World Heritage Sites Analysis (Tableau)
 📌 Project Overview
 
-Heritage Treasures: An In-Depth Analysis of UNESCO World Heritage Sites is a data visualization project built using Tableau.
+Heritage Treasures: An In Depth Analysis of UNESCO World Heritage Sites is a data visualization project built using Tableau.
 
 The goal of this project is to explore and analyze UNESCO World Heritage Sites across the world by transforming raw data into meaningful dashboards and stories that provide insights into:
 
